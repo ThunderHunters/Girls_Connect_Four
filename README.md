@@ -15,4 +15,4 @@ Stunning graphics and animations.
 Sound effects and background music to enhance gameplay.
 
 Note:
-To play the game please download the game file and all of the associated sound files.  Next be sure to have pygame installed.  Finally change the path to the soundfiles in the code to where you downloaded them.    :) 
+To play the game please download the game file and all of the associated sound files.  Next be sure to have pygame installed.  Finally change the path to the sound files in the code to where you downloaded them.    :) 
